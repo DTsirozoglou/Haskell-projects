@@ -1,0 +1,1 @@
+Developed a parser  and  an  interpreter  for  SALSA  language  (domainspecific  language  for  specifying  animations),  implemented  in  HASKELL,  using the monadic parser library ReadP and state Monad respectively.
